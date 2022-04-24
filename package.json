@@ -1,0 +1,17 @@
+{
+  "name": "weverc",
+  "version": "1.0.0",
+  "description": "weverc project for Advanced Networking Class",
+  "main": "weverc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Westbrook",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21"
+  }
+}
